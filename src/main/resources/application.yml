@@ -1,0 +1,7 @@
+spring:
+  datasource:
+  # update host to your host IP if using docker-compose since MYSQL will deny localhost from the container
+    url: jdbc:mysql://localhost:3306/zeatful?useSSL=false
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    username: root
+    password: welcome1

@@ -1,0 +1,10 @@
+com/zeatful/mapper/ServerEntryFieldSetMapper.class
+com/zeatful/process/OffenderProcessor.class
+com/zeatful/BatchConfiguration$1.class
+com/zeatful/mapper/OffenderRowMapper.class
+com/zeatful/domain/ServerEntry.class
+com/zeatful/domain/Offender.class
+com/zeatful/Parser.class
+com/zeatful/service/OffenderQueryService.class
+com/zeatful/BatchConfiguration$1$1.class
+com/zeatful/BatchConfiguration.class
