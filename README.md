@@ -10,7 +10,7 @@ This is a simple spring-boot-batch project that should find IP addresses in the 
 1. Open `logparsers/src/resources/application.yml`
     and replace `localhost` with your current ip address for the property `spring:datasource:url` 
 2. Build the project using maven: `mvn install`
-3. Use the supplied `docker.compose.yml` file to easily stand up a mysql database:
+3. Use the supplied `docker-compose.yml` file to easily stand up a mysql database:
 From the same directory of the file run: `docker-compose up`
 4. Ensure you have a log file with entries matching the following format:
     
