@@ -5,6 +5,9 @@ import lombok.ToString;
 
 import java.time.LocalDateTime;
 
+/**
+ * Represents a line from the parsed log file that will be added to the ServerEntry table
+ */
 @Data // auto generate getter/setter methods
 @ToString // auto generate a toString method
 public class ServerEntry {
